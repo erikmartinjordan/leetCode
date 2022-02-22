@@ -33,6 +33,7 @@
         reversed.val = e
         
         if(i !== elem.length - 1){
+
             reversed.next = new ListNode() 
             reversed = reversed.next
                 
